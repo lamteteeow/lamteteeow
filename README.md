@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Learning languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamteteeow&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Learning languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamteteeow&layout=compact&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
