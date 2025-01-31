@@ -3,7 +3,7 @@
 <!--
 **lamteteeow/lamteteeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- ⚡ My name is Lam currently studying Master Computational Engineering at FAU in Germany.
+- ⚡ I'm Lam currently studying Master Computational Engineering at FAU in Germany.
 - 🌱 Trying to learn Visual Computing, HPC, Graphics Programming, Scientific Visualization, Rendering, Vulkan, C++, Rust, WebGPU
 - 🔭 I’m currently working on **Laser Keyhole Welding** with **Lattice Boltzmann** implementation for fluid simulation
 - 🤔 HELPPPPP!: if you know where to find good learning resources for **Flow3D-WELD** please let me know
