@@ -6,8 +6,8 @@
 - ⚡ My name is Lam currently studying Master Computational Engineering at FAU in Germany.
 - 🌱 Trying to learn Visual Computing, HPC, Graphics Programming, Scientific Visualization, Rendering, Vulkan, C++, Rust, WebGPU
 - 🔭 I’m currently working on **Laser Keyhole Welding** with **Lattice Boltzmann** implementation for fluid simulation
-- 🤔 HELPPPPP!: if you know where to find good learning resource for **Flow3D-WELD** please let me know
-- 📫 Contact: [lam.tran@fau.de](mailto:lam.tran@fau.de) or my [LinkedIn](https://www.linkedin.com/in/lam-tran-488ba521a/)
+- 🤔 HELPPPPP!: if you know where to find good learning resources for **Flow3D-WELD** please let me know
+- 📫 Contact via [Email](mailto:lam.tran@fau.de) or [LinkedIn](https://www.linkedin.com/in/lam-tran-488ba521a/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🔭 I’m currently working on
@@ -17,4 +17,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Learning languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamteteeow&layout=compact&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Learning languages]()
