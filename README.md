@@ -17,4 +17,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Learning languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamteteeow&layout=compact&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lamteteeow&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
