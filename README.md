@@ -4,8 +4,7 @@
 **lamteteeow/lamteteeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - ⚡ I'm Lam currently studying Master in Computational Engineering at FAU in Germany.
-- 🌱 Learning goal: Visual Computing, HPC, Robotics, Graphics, Scientific Visualization, Rendering, Vulkan, C++, Rust, WebGPU, etc
-- 🤔 HELPPPPP!: if you know where to find good learning resources for **Flow3D-WELD** please let me know
+- 🌱 Learning goal: Visual Computing, HPC, Robotics, Graphics, Scientific Visualization, Rendering
 - 📫 Contact via [Email](mailto:lam.tran@fau.de) or [LinkedIn](https://www.linkedin.com/in/lam-tran-488ba521a/)
 <!--
 - 👯 I’m looking to collaborate on ...
