@@ -5,6 +5,8 @@
 -->
 - ⚡ I'm Lam currently studying Master in Computational Engineering at FAU in Germany.
 - 🌱 Learning goal: Visual Computing, HPC, Robotics, Graphics, Scientific Visualization, Rendering
+- ⚡ Current stack: [Moshi](https://getmoshi.app/) + [Alacritty](https://github.com/alacritty/alacritty) + [Herdr](https://github.com/herdrdev/herdr) + [oh-my-pi](https://github.com/can1357/oh-my-pi) (+ [Zed](https://github.com/zed-industries/zed) and [Helix](https://github.com/helix-editor/helix))
+- 🔭 Current orchestration architecture: Hybrid of Evaluator-Optimizer (peer2peer) + Orchestrator-Workers (subagent fan-out)
 - 📫 Contact via [Email](mailto:lam.tran@fau.de) or [LinkedIn](https://www.linkedin.com/in/lam-tran-488ba521a/)
 <!--
 - 👯 I’m looking to collaborate on ...
